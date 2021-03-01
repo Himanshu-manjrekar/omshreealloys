@@ -1,0 +1,129 @@
+.ht__list__product {
+    margin-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.ht__list__product {
+    display: flex;
+}
+
+.ht__list__thumb {
+    margin-right: 40px;
+    min-width: 290px;
+}
+.ht__list__thumb img {
+    width: 100%;
+}
+.htc__list__details h2 {
+    color: #343;
+    font-family: Old Standard TT;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    text-transform: capitalize;
+}
+.htc__list__details h2 a{
+    color: #f44336;
+}
+
+.htc__list__details .pro__prize {
+    justify-content: flex-start;
+    margin-bottom: 11px;
+    margin-top: 0;
+    padding-left: 0 !important;
+}
+.htc__list__details p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 26px;
+    margin-top: 15px;
+}
+.htc__list__details .product__action {
+    justify-content: flex-start;
+}
+.ht__list__product .product__action li a {
+    background: #f6f6f6 none repeat scroll 0 0;
+}
+.ht__list__product .product__action li + li {
+    margin-left: 30px;
+}
+.ht__list__product .product__action li.ht__addto__cart a {
+    background: #c43b68 none repeat scroll 0 0;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 17px 0 0;
+    text-transform: uppercase;
+    transition: all 0.4s ease 0s;
+    width: auto;
+}
+.ht__list__product .product__action li.ht__addto__cart a i {
+    background: #c43b68 none repeat scroll 0 0;
+    border-right: 1px solid #fff;
+    color: #fff;
+    display: inline-block;
+    height: 50px;
+    line-height: 45px;
+    margin: 0 17px 0 auto;
+    position: relative;
+    width: 50px;
+}
+
+.ht__list__product .product__action li.ht__addto__cart a:hover,
+.ht__list__product .product__action li.ht__addto__cart a.active {
+    background: #212121 none repeat scroll 0 0;
+}
+.ht__list__product .product__action li.ht__addto__cart a.active:hover{
+    background: #c43b68;
+}
+.ht__list__product .product__action li a:hover {
+    background: #c43b68;
+    color: #fff;
+}
+.pro__prize {
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+}
+.pro__prize li {
+    color: #313131;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.pro__prize li.old__prize {
+    color: #888888;
+    font-weight: 400;
+    padding-right: 12px;
+}
+.fr__pro__prize li.old__prize {
+    color: #888888;
+}
+.top__pro__prize li.old__prize {
+    color: #888888;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+.inner__position .rating {
+    display: flex;
+    float: right;
+}
+
+.rating {
+    display: flex;
+    padding-left: 0 !important;
+}
+.rating li i {
+    color: #FFDF00;
+    font-size: 15px;
+}
+.rating li + li {
+    margin-left: 4px;
+}
+.rating li.old i {
+    color: #777777;
+}

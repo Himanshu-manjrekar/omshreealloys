@@ -4,6 +4,42 @@
 4). Base color for website 
 
 Username while login !impornat
-https://wireframestogo.com/3cf8-E-Commerce-Template/  thankyopu wireframe
+https://wireframestogo.com/3cf8-E-Commerce-Template/  thankyou wireframe
 
 Sign in Sign up (Modal popup)
+
+
+
+
+Frontend changes Index page 
+1). add search box in hero section Image Background (Remove slider) ref :- https://www.indiamart.com/
+2). Categories Card similar to restaurant website.
+3). services Section from existing website (Name that section as Products)
+4). We Respond To All Enquiries Quickly Send Us Your Requirement Now! (Similar as jaydeepsteels.)
+x). Get a Quote form(dicey)
+
+
+
+
+
+
+
+
+ref site:- 1) https://www.jaydeepsteels.com/
+
+
+
+base colors:- Hindalco :- #ffc107
+              1). #ef5350 -: red lighten 1
+              2). #f44336 -:Red
+              3). #e53935 -:Red darken 1
+
+
+
+font for the body section :- @import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+
+
+127.0.0.1	omshreealloys.com
+::1	omshreealloys.com

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+.section__begning{
+    padding-top: 80px;
+}
+
+h2.title-2 {
+    font-size: 40px;
+    font-family: 'Cabin', sans-serif;
+    color: #e53935;
+    font-weight: 700;
+    margin: 0
+}
+
+h4.subtitle-2 {
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+    color: #4c4f54;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 10px 0 20px
+}
+
+@media all and (max-width:767px) {
+    h2.title-2 {
+        font-size: 30px
+    }
+    h4.subtitle-2 {
+        font-size: 16px
+    }
+    .row.process>div {
+        margin-bottom: 40px
+    }
+    .row.process>div:last-child {
+        margin-bottom: 0
+    }
+}
+
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+   
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+.spacer-50 {
+    display: block;
+    clear: both;
+    overflow: hidden
+}
+.spacer-50 {
+    height: 50px
+}
+.whowe__are {
+    /* background-color: #eeeeee */
+}
+
